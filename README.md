@@ -1,2 +1,3 @@
-# Coursera-Course---HTML-CSS-and-JS-by-John-Hopkins-University
-Codes done for my Coursera course "HTML, CSS, and JS" by John Hopkins University
+# Hey!
+
+This repository is simply a collection of everything I have done for this course.
